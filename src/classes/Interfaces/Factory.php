@@ -1,6 +1,6 @@
 <?php
 
-namespace DjinnDev\RequestHandler\Interfaces;
+namespace DjinnDev\ToolBasics\Interfaces;
 
 interface Factory
 {
